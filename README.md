@@ -1,6 +1,6 @@
-# Game Acak Kata
+# Word Shuffle Game
 
-Pada saat program dijalankan, pemain akan langsung dihadapkan oleh pertanyaan berupa kata yang diacak. Tugas pemain adalah untuk menjawab bentuk kata yang belum diacak. Setiap pemain memiliki 0 Point dan jika pemain berhasil menjawab dengan benar point akan bertambah. Game ini dirancang menggunakan bahasa Pemrograman `ruby` dengan konsep OOP.
+When the program is run, players will immediately be confronted with questions in the form of scrambled words. The player's task is to answer the word forms that have not been scrambled. Each player has 0 Points and if the player answers correctly the points will increase. This game is designed using the Ruby programming language with OOP concepts.
 
 ## How to run the code
 
